@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miloshan07
-- 👀 I’m interested in Coding and Data Science
+- 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Data Science
 -
 
